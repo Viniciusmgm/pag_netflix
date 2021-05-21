@@ -1,6 +1,6 @@
 <!--Apresentação do projeto-->
 
-<h1>Recriando a página inicial do Netflix</h1>
+<h1 align="center">Recriando a página inicial do Netflix <img width="40" src="https://img.icons8.com/bubbles/452/netflix.png" align="top"></h1>
 <p>
   Esse projeto foi realizado durante o Bootcamp HTML Web Developer da <a href="https://web.digitalinnovation.one/home">Digital Innovation One</a>, e teve como objetivo
   recriar a página inicial da Netflix.
@@ -8,7 +8,7 @@
 
 <!--Linguagens e Ferramentes utilizadas-->
 
-<h2>Linguagens e Ferramentas utilizadas</h2>
+<h2>Linguagens e Ferramentas 🛠️</h2>
 <p>
   Nesse projetos foram utilizadas as seguintes linguagens e ferramentas:
   <p>
