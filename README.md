@@ -2,8 +2,8 @@
 
 <h1 align="center">Recriando a página inicial do Netflix <img width="40" src="https://img.icons8.com/bubbles/452/netflix.png" align="top"></h1>
 <p>
-  Esse projeto foi realizado durante o Bootcamp HTML Web Developer da <a href="https://web.digitalinnovation.one/home">Digital Innovation One</a>, e teve como objetivo
-  recriar a página inicial da Netflix.
+  Esse projeto foi realizado durante o Bootcamp HTML Web Developer da <a href="https://web.digitalinnovation.one/home">Digital Innovation One</a>, e teve como objetivo recriar a página inicial da Netflix. <br>
+  Obs: acrescentei algumas funcionalidades aos botões
 </p>
 
 <!--Linguagens e Ferramentes utilizadas-->
