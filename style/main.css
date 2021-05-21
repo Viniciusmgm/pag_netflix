@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Bebas Neue', cursive;
+    src: url('/fonts/Bebas_Neue/BebasNeue-Regular.ttf');
+}
+
 :root{
     --vermelho: #e50914;
     --preto: #141414;
@@ -26,7 +31,7 @@ header .container {
 
 header .logo {
     color: var(--vermelho);
-    font-family: "Arial Black", Times;
+    font-family: 'Bebas Neue', cursive;
     font-size: 40px;
     margin-left: 5px;
 }
