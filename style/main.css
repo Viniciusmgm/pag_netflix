@@ -1,10 +1,8 @@
-@font-face {
-    font-family: 'Bebas Neue', cursive;
-    src: url('/fonts/Bebas_Neue/BebasNeue-Regular.ttf');
-}
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 :root{
-    --vermelho: #e50914;
+    --vermelho: #E50914;
     --preto: #141414;
 }
 
@@ -18,7 +16,7 @@
 
 body {
     background: var(--preto);
-    font-family: 'Arial', Times, serif;
+    font-family: 'Roboto', sans-serif;
     color: white;
 }
 
@@ -32,7 +30,8 @@ header .container {
 header .logo {
     color: var(--vermelho);
     font-family: 'Bebas Neue', cursive;
-    font-size: 40px;
+    font-size: 50px;
+    font-weight: bolder;
     margin-left: 5px;
 }
 
@@ -68,8 +67,8 @@ header nav a:hover {
 
 .conteudo-principal .titulo {
     margin-top: 15%;
-    font-size: 40px;
-    font-family: 'Trebuchet MS', Arial, sans-serif;
+    font-size: 60px;
+    font-family: 'Bebas Neue', cursive;
 }
 
 .botao {
@@ -80,7 +79,7 @@ header nav a:hover {
 
     padding: 10px 20px;
     margin-right: 10px;
-    font-size: 12px;
+    font-size: 14px;
 
     cursor: pointer;
     transition: .3s ease all;
@@ -101,6 +100,11 @@ header nav a:hover {
 
 .conteudo-principal .container {
     width: 70%;
+}
+
+.carrossel-filmes .titulo {
+    margin: 8px 0px 5px 10px;
+    font: 'Bebas Neue' 20px bold;
 }
 
 .box-filme {
